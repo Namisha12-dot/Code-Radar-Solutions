@@ -2,5 +2,5 @@
 int main(){
     float a;
     scanf("%d",&a);
-    printf("%d");
+    printf("%d",a);
 }
