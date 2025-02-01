@@ -6,4 +6,5 @@ int main(){
     {printf("True");}
     else
     {print("False");}
+    return 0;
 }
