@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int a,b,c,avg=1;
+    int a,b,c,avg;
     scanf("%d",&a);
     scanf("%d",&b);
     saanf("%d",&c);
