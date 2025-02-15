@@ -5,7 +5,7 @@ int main()
     scanf("%d %d",&a,&b);
     if(a>0 && b<0);
     printf("true");
-    if else(a<0 && b>0);
+    else if(a<0 && b>0);
     printf("true");
     else
     printf("False");
