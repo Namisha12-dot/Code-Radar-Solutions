@@ -1,5 +1,5 @@
 
-int isprime(int n){
+int isPrime(int n){
     if(n<2){
         return 0;
     }
